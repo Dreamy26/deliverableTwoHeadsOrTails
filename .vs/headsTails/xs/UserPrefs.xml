@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{CE46D2BC-1620-440C-B67D-A05B2E296B82}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="headsTails/Program.cs">
+    <Files>
+      <File FileName="headsTails/Program.cs" Line="67" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="headsTails" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.headsTails PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
