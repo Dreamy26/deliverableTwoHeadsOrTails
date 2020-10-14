@@ -11,7 +11,7 @@
         -the number
         -percentage of total correct guesses
 
-## Varibles
+## Variables
 - headsOrTailsGuess - string - input from user 
 - numberOfFlips - int - Repeat coin flips based on the number of flips entered by the user - 
 - correctCount - int -
